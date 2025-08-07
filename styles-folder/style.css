@@ -166,3 +166,43 @@ hr {
   margin: 100px 20px;
 
 }
+
+
+
+
+.portfolio {
+  width: 50%;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.portfolio-intro {
+  width: 80%;
+  margin: auto;
+  font-size: 1.1rem;
+  color: #40514E;
+}
+
+.project-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 30px;
+}
+
+.project-list li {
+  margin: 15px 0;
+}
+
+.project-list a {
+  font-size: 1.2rem;
+  color: #11999E;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.project-list a:hover {
+  color: #30e3cb;
+  text-decoration: underline;
+}
+
